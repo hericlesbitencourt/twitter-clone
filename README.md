@@ -3,10 +3,13 @@
 
 ### O que aprendi ?
 
-[x] Como organizar e dividir os elementos na tela. *Sem o uso do CSS Grid.
-[x] Responsividade.
-[x] Como utilizar o styled-components da melhor forma.
-[x] ✨E muito mais!✨
+✅ Como organizar e dividir os elementos na tela. *Sem o uso do CSS Grid.
+
+✅ Responsividade.
+
+✅ Como utilizar o styled-components da melhor forma.
+
+✅ ✨E muito mais!✨
 
 ## Link's
 
